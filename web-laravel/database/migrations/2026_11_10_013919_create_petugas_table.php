@@ -13,6 +13,11 @@ return new class extends Migration
     {
         Schema::create('petugas', function (Blueprint $table) {
             $table->id();
+            $table->integer('id_petugas')->int();
+            $table->string('username')->varchar(30);
+            $table->string('password')->varchar(30);
+            $table->string('nama_petugas')->varchar(50);
+            $table->string('level')->enum;
             $table->timestamps();
         });
     }

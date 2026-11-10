@@ -7,9 +7,15 @@ use Override;
 
 class petugas extends Model
 {
-    
-    public function casts()
-    {
-        
-    }
+
+    protected $fillable = [
+        'id_petugas',
+        'username',
+        'password',
+        'nama_petugas',
+        'level'
+    ];
+ 
+   
 }
+ 
