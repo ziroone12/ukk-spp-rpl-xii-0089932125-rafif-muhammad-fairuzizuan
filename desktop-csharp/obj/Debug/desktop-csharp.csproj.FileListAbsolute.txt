@@ -1,0 +1,7 @@
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop-csharp.csproj.AssemblyReference.cache
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop_csharp.Form1.resources
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop_csharp.Properties.Resources.resources
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop_csharp.view.FormLogin.resources
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop_csharp.view.FormRegistrasiPetugas.resources
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop-csharp.csproj.GenerateResource.cache
+C:\Users\Client\source\repos\ukk-spp-rpl-xii-0089932125-rafif-muhammad-fairuzizuan\desktop-csharp\obj\Debug\desktop-csharp.csproj.CoreCompileInputs.cache
